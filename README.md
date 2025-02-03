@@ -12,8 +12,9 @@ Este proyecto es una API REST desarrollada para la tienda de joyas **My Precious
 
 1. **Clona el repositorio:**
 
-   ```bash
-   git clone https://github.com/tu-usuario/desafio-tienda-joyas.git
+   
+   git clone https://github.com/C0smar/Desafio5_node.git
+   
    cd desafio-tienda-joyas
    
 Instala las dependencias:
